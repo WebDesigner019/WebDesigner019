@@ -3,7 +3,7 @@
 # Muhammad Mansur Adam
 
 **Full-stack developer shipping AI-powered web apps end-to-end - auth, databases, deployment, and all.**
-Founder of KerjaGlobal (1,000+ users) · Informatics Engineering @ Universitas Trunojoyo Madura
+Founder of KerjaGlobal · Informatics Engineering Education @ Universitas Trunojoyo Madura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
