@@ -2,7 +2,7 @@
 
 # Muhammad Mansur Adam
 
-**Full-stack developer shipping AI-powered web apps end-to-end - auth, databases, deployment, and all.**
+**Full-stack developer shipping AI-powered web apps end-to-end auth, databases, and deployment**
 Founder of KerjaGlobal · Informatics Engineering Education @ Universitas Trunojoyo Madura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
