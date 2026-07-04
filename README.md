@@ -1,10 +1,9 @@
 <div align="center">
 
-# Hi, I'm Muhammad Mansur Adam 👋
+# Muhammad Mansur Adam
 
-**Full-stack developer & AI researcher building real products and studying how AI systems should be governed.**
-
-Founder of [KerjaGlobal](#) · Published researcher (Explainable ML, Transformer NLP) · Informatics Engineering Education @ Universitas Trunojoyo Madura
+**Full-stack developer shipping AI-powered web apps end-to-end — auth, databases, deployment, and all.**
+Founder of KerjaGlobal (1,000+ users) · Informatics Engineering @ Universitas Trunojoyo Madura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
@@ -13,32 +12,39 @@ Founder of [KerjaGlobal](#) · Published researcher (Explainable ML, Transformer
 
 ---
 
-### 🔭 What I'm working on
-
-- **KerjaGlobal** — an AI-assisted freelance platform, scaled to 1,000+ users
-- **SAIG-P** — a governance framework for AI in developing-country contexts, currently under peer review at *JeDEM*
-- Applying to the **Singapore AI Safety Fellowship (SASH) 2026**
-
-### 🧠 Research
-
-- *Explainable Machine Learning* — ICSI 2026
-- *Transformer-based NLP* — AIPTEC 2025 / EPJ Web of Conferences
-- *SAIG-P: AI Governance Framework* — under review, JeDEM
-
 ### 🛠️ Tech Stack
 
 | Area | Stack |
 |---|---|
-| Languages | `Python`, `JavaScript`, `SQL` |
-| Frameworks | `Node.js`, `React`, `Next.js` |
-| AI / ML | `LLMs`, `Explainable ML`, `NLP` |
-| Cloud & Infra | `Azure`, `REST APIs` |
+| Languages | `TypeScript`, `JavaScript`, `Python`, `SQL` |
+| Frontend | `React`, `Next.js`, `TanStack Start/Router`, `Vite`, `Tailwind CSS`, `shadcn/Radix UI` |
+| Backend | `Node.js`, `Prisma`, `JWT auth`, `Nodemailer` |
+| Database & Auth | `MySQL`, `PostgreSQL`, `Supabase Auth` |
+| Cloud & Deployment | `Cloudflare Workers`, `Azure`, `Docker` |
+| AI / ML | `OpenAI API`, `HuggingFace`, `LLM tooling` |
 
 ### 📌 Featured Projects
 
-- **[AutoApply.AI](https://github.com/WebDesigner019/AutoApply.AI)** — AI-powered job application assistant
-- **[DormConnect](https://github.com/WebDesigner019/DormConnect)** — connecting students to housing
-- **[OnlineRemoteJob](https://github.com/WebDesigner019/OnlineRemoteJob)** — remote job discovery platform
+**[NusantaraJobs](https://github.com/WebDesigner019/NusantraJobs)** — Job-matching and upskilling MVP for the Indonesian job market. Seekers upload a CV (parsed client-side via `pdfjs-dist`) and get ranked job matches with a transparent skill-gap breakdown, backed by real Supabase auth/Postgres and deployed live on Cloudflare Workers.
+`React 19` `TanStack Start` `TypeScript` `Supabase` `Cloudflare Workers`
+🔗 [Live demo](https://nusantarajobs.mrpresident6919.workers.dev)
+
+**[UTM-TV](https://github.com/WebDesigner019/UTM-TV)** — Full-stack submission and tracking system for campus broadcast coverage requests at UTM. Public submission with campus-email validation and auto-generated reference numbers, plus an authenticated admin dashboard with status history, file uploads, and email notifications.
+`Next.js 14` `Prisma` `MySQL` `JWT` `Docker`
+
+**[AutoApply.AI](https://github.com/WebDesigner019/AutoApply.AI)** — AI career assistant that tailors resumes and cover letters against a job description with an application-tracking dashboard.
+`React` `Node.js` `Express` `MongoDB` `OpenAI API`
+
+**[dubai-property-hub](https://github.com/WebDesigner019/dubai-property-hub)** — Real estate listing/lead platform built for the Dubai market. *(description inferred — please correct if off)*
+
+**[FlowTask-AI](https://github.com/WebDesigner019/FlowTask-AI)** — AI-assisted task/workflow automation tool. *(description inferred — please correct if off)*
+
+**[studymate-ai](https://github.com/WebDesigner019/studymate-ai)** — AI study assistant for students. *(description inferred — please correct if off)*
+
+### 🏆 Hackathons & Competitions
+
+- **scamshield-hackathon** — fraud/scam detection tool built for a hackathon
+- **MyAI_Future-Hackathon** *(private)* — AI hackathon submission
 
 ### 📊 GitHub Stats
 
