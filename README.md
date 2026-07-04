@@ -35,16 +35,16 @@ Founder of KerjaGlobal (1,000+ users) · Informatics Engineering @ Universitas T
 **[AutoApply.AI](https://github.com/WebDesigner019/AutoApply.AI)** — AI career assistant that tailors resumes and cover letters against a job description with an application-tracking dashboard.
 `React` `Node.js` `Express` `MongoDB` `OpenAI API`
 
-**[dubai-property-hub](https://github.com/WebDesigner019/dubai-property-hub)** — Real estate listing/lead platform built for the Dubai market. *(description inferred — please correct if off)*
+**[dubai-property-hub](https://github.com/WebDesigner019/dubai-property-hub)** — Real estate listing/lead platform built for the Dubai market.
 
-**[FlowTask-AI](https://github.com/WebDesigner019/FlowTask-AI)** — AI-assisted task/workflow automation tool. *(description inferred — please correct if off)*
+**[FlowTask-AI](https://github.com/WebDesigner019/FlowTask-AI)** — AI-assisted task/workflow automation tool.
 
-**[studymate-ai](https://github.com/WebDesigner019/studymate-ai)** — AI study assistant for students. *(description inferred — please correct if off)*
+**[studymate-ai](https://github.com/WebDesigner019/studymate-ai)** — AI study assistant for students.
 
 ### 🏆 Hackathons & Competitions
 
 - **scamshield-hackathon** — fraud/scam detection tool built for a hackathon
-- **MyAI_Future-Hackathon** *(private)* — AI hackathon submission
+- **MyAI_Future-Hackathon** — AI hackathon submission
 
 ### 📊 GitHub Stats
 
